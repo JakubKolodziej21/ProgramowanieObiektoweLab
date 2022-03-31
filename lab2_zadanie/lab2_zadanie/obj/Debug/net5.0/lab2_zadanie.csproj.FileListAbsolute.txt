@@ -1,0 +1,16 @@
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\obj\Debug\net5.0\lab2_zadanie.csproj.AssemblyReference.cache
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\obj\Debug\net5.0\lab2_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\obj\Debug\net5.0\lab2_zadanie.AssemblyInfoInputs.cache
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\obj\Debug\net5.0\lab2_zadanie.AssemblyInfo.cs
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\obj\Debug\net5.0\lab2_zadanie.csproj.CoreCompileInputs.cache
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\bin\Debug\net5.0\lab2_zadanie.exe
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\bin\Debug\net5.0\lab2_zadanie.deps.json
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\bin\Debug\net5.0\lab2_zadanie.runtimeconfig.json
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\bin\Debug\net5.0\lab2_zadanie.runtimeconfig.dev.json
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\bin\Debug\net5.0\lab2_zadanie.dll
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\bin\Debug\net5.0\ref\lab2_zadanie.dll
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\bin\Debug\net5.0\lab2_zadanie.pdb
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\obj\Debug\net5.0\lab2_zadanie.dll
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\obj\Debug\net5.0\ref\lab2_zadanie.dll
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\obj\Debug\net5.0\lab2_zadanie.pdb
+D:\Users\albert.koczy\Source\Repos\lab2_zadanie\lab2_zadanie\obj\Debug\net5.0\lab2_zadanie.genruntimeconfig.cache
